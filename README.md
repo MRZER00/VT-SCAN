@@ -15,7 +15,7 @@
 This is a simple tool to utilize the basic functionality of the Private API From Virus Total.
 with this tool you can eaisly scan a IP , URL , Domain and Hash By send it to https://www.virustotal.com
 for analysis using thier API and Returns the result as either Malicious or Clean .
-NOTE: Asingle detection qualifies for being marked as Malicious.
+\nNOTE: Asingle detection qualifies for being marked as Malicious.
 
 ** In order to use the API you must sign in https://www.virustotal.com/gui/sign-in.
 NOTE: you will find your personal API key in your personal settings section.
