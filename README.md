@@ -19,7 +19,7 @@ NOTE: Asingle detection qualifies for being marked as Malicious.
 
 ** In order to use the API you must sign in https://www.virustotal.com/gui/sign-in.
 NOTE: you will find your personal API key in your personal settings section.
-NOTE: This key is all you need to use the this tool #VT-SCAN.
+NOTE: This key is all you need to use the this tool VT-SCAN.
 
 If You Faced With Errors or you want develop something for this tool 
       Please Contact Me On Telegram https://t.me/OX0ZER0 .
@@ -30,7 +30,7 @@ and then follow the instructions and choose what you want for scan.
 Enjoy :)
 
 # Authors
-   Built Script Author >>  0X0ŽĒR∅⁰ 
+   Built Script Author >>  0X0ŽĒR∅⁰  
    https://github.com/MRZER00
 
 # License
