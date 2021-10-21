@@ -1,4 +1,4 @@
- # Welcome To VT-SCAN (viurs total api)       
+ # **Welcome To VT-SCAN** (viurs total api)       
 
 ` ` ``     .`` ., .   .,.  ` `   ``     ````  ``     `````          ``       ```    `  `     ``  ``   `  
    .ohhho.  .ohy+-hyMRZER00hhh`        `:ssooshy`   -+ysooyy-     `yhh-     -shhy.   :yh+` /hhh+   `+hy:    
@@ -15,7 +15,7 @@
 This is a simple tool to utilize the basic functionality of the Private API From Virus Total.
 with this tool you can eaisly scan a IP , URL , Domain and Hash By send it to https://www.virustotal.com
 for analysis using thier API and Returns the result as either Malicious or Clean .
-\nNOTE: Asingle detection qualifies for being marked as Malicious.
+</br>NOTE: Asingle detection qualifies for being marked as Malicious.
 
 ** In order to use the API you must sign in https://www.virustotal.com/gui/sign-in.
 NOTE: you will find your personal API key in your personal settings section.
@@ -30,8 +30,7 @@ and then follow the instructions and choose what you want for scan.
 Enjoy :)
 
 # Authors
-   Built Script Author >>  0X0ŽĒR∅⁰  
-   https://github.com/MRZER00
+   Built Script Author >>  [0X0ŽĒR∅⁰](https://github.com/MRZER00)
 
 # License
    Help develop this tool and add some plugins to improve it .
