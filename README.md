@@ -30,6 +30,6 @@ and then follow the instructions and choose what you want for scan.
 Enjoy :)
 
 # Authors
-   Built Script Author >> @MRZER00  
+   Built Script Author >> # MRZER00  
 License:
    Help develop this tool and add some plugins to improve it .
