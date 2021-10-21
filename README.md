@@ -11,7 +11,7 @@
         `--          ..--..            .--::-.`     `.--:--.``.-.`   `.---. `.-.`    .-.   .--.    `.-` `MR-ZER00 `
         
  
-# Information
+## Information
 This is a simple tool to utilize the basic functionality of the Private API From Virus Total.
 with this tool you can eaisly scan a IP , URL , Domain and Hash By send it to https://www.virustotal.com
 for analysis using thier API and Returns the result as either Malicious or Clean .
@@ -23,14 +23,14 @@ NOTE: This key is all you need to use the this tool VT-SCAN.
 
 If You Faced With Errors or you want develop something for this tool 
       Please Contact Me On Telegram https://t.me/OX0ZER0 .
-# Example For Use
+## Example For Use
   python3 SCAN.py 
 
 and then follow the instructions and choose what you want for scan.
 Enjoy :)
 
-# Authors
+## Authors
    Built Script Author >>  [0X0ŽĒR∅⁰](https://github.com/MRZER00)
 
-# License
+## License
    Help develop this tool and add some plugins to improve it .
