@@ -9,10 +9,10 @@ This is a simple tool to utilize the basic functionality of the Private API From
 </br>NOTE: you will find your personal API key in your personal settings section.
 </br>NOTE: This key is all you need to use the this tool VT-SCAN.
 
-If You Faced With Errors or you want develop something for this tool 
-    </br>#####Please Contact Me On Telegram https://t.me/OX0ZER0 .
+If You Faced With Errors or you want develop something for this tool     </br>
+#####Please Contact Me On Telegram https://t.me/OX0ZER0 .
 ## Example For Use
-  ####python3 SCAN.py 
+###python3 SCAN.py 
 
 and then follow the instructions and choose what you want for scan.
 </br>Enjoy :)
