@@ -1,8 +1,6 @@
  # **Welcome To VT-SCAN** (viurs total api)       
-#     ` `      . ., .   .,.  ` `   ``     ````  ``     `````          ``       ```    `  `     ``  ``   `           #             
-<br>#   .ohhho.  .ohy+-hyMRZER00hhh`        `:ssooshy`   -+ysooyy-     `yhh-     -shhy.   :yh+` /hhh+   `+hy:           #
-
- 
+=========
+=========
 ## Information
 This is a simple tool to utilize the basic functionality of the Private API From Virus Total.
 </br>with this tool you can eaisly scan a IP , URL , Domain and Hash By send it to https://www.virustotal.com
