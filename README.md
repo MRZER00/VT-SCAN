@@ -13,7 +13,7 @@ If You Faced With Errors or you want develop something for this tool     </br>
     Please Contact Me On Telegram https://t.me/OX0ZER0 .
 ## Example For Use
 Git clone https://github.com/MRZER00/VT-SCAN.git<br>
-Cd 
+
 python3 VT-SCAN.py 
 
 and then follow the instructions and choose what you want for scan.
